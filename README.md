@@ -1,29 +1,25 @@
 ### Hi there 👋
-<div>
+<h3 align="center">📚 Tech Stack 📚</h3>
+<div align="center">
 <!--<a href="이름-색상" target="_blank"><img src="https://img.shields.io/badge/이름-배경색?style=flat-square&logo=이름&logoColor=로고색상"/></a>-->
-<a href="github-181717" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="Unity-FFFFFF" target="_blank"><img src="https://img.shields.io/badge/Unity-181717?style=flat-square&logo=unity&logoColor=white"/></a>
-</div>
 
-![js](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<a href="Unity-FFFFFF" target="_blank"><img src="https://img.shields.io/badge/Unity-181717?style=flat-square&logo=unity&logoColor=white"/></a>
+<a href="Csharp-512BD4" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-<div>
+<div align="center">
 https://github.com/DevNeo-org
+<h3 align="center">🌈 Follow Me 🌈</h3>
   </div>
+  <p align="center">
+  <a href="https://github.com/knhooo"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="mailto:knh000125@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</p>
 
-<!--내용 부분
-//**knhooo/knhooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
